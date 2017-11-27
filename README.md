@@ -7,6 +7,9 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/apache-hadoop-big-data-training.html
 
+https://www.tertiarycourses.com.my/apache-hadoop-big-data-training-malaysia.html
+
+
 <h2><strong>Day1</strong></h2>
 <p><strong>Module 1: Get Started on&nbsp;Apache Hadoop</strong></p>
 <ul>
